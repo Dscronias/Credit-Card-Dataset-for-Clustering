@@ -1,1 +1,0 @@
-https://www.kaggle.com/arjunbhasin2013/ccdata
